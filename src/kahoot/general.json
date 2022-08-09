@@ -1,0 +1,584 @@
+{
+    "name": "General Trivia",
+    "author": "Built-in",
+    "questions": [
+        {
+            "q": "On a dartboard, what number is directly opposite No. 1?",
+            "a": [
+                {
+                    "text": 19,
+                    "isCorrect": true
+                },
+                {
+                    "text": 20,
+                    "isCorrect": false
+                },
+                {
+                    "text": 21,
+                    "isCorrect": false
+                },
+                {
+                    "text": 18,
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "Which American president appears on a one-dollar bill?",
+            "a": [
+                {
+                    "text": "George Washington",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Thomas Jefferson",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Abraham Lincoln",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Franklin Pierce",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "Which geometrical shape is generally used for stop signs?",
+            "a": [
+                {
+                    "text": "Octagon",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Circle",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Square",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hexagon",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+            "a": [
+                {
+                    "text": "True",
+                    "isCorrect": false
+                },
+                {
+                    "text": "False",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "q": "What is the nickname of the US state of California?",
+            "a": [
+                {
+                    "text": "Golden State",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Garden State",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Natural State",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Centennial State",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "The color orange is named after the fruit.",
+            "a": [
+                {
+                    "text": "True",
+                    "isCorrect": true
+                },
+                {
+                    "text": "False",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "Who is depicted on the US hundred-dollar bill?",
+            "a": [
+                {
+                    "text": "Benjamin Harrison",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Benjamin Franklin",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Andrew Johnson",
+                    "isCorrect": false
+                },
+                {
+                    "text": "John Tyler",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "The Lego Group was founded in 1932.",
+            "a": [
+                {
+                    "text": "True",
+                    "isCorrect": true
+                },
+                {
+                    "text": "False",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What is Cynophobia the fear of?",
+            "a": [
+                {
+                    "text": "Dogs",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cats",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rabbits",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cockroaches",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What is the world's most expensive spice by weight?",
+            "a": [
+                {
+                    "text": "Saffron",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pure Vanilla",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mahleb",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Long Pepper",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "Vietnam's national flag is a red star in front of a Yellow background.",
+            "a": [
+                {
+                    "text": "True",
+                    "isCorrect": false
+                },
+                {
+                    "text": "False",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "q": "The Flag of the European Union has how many stars in it?",
+            "a": [
+                {
+                    "text": 12,
+                    "isCorrect": true
+                },
+                {
+                    "text": 10,
+                    "isCorrect": false
+                },
+                {
+                    "text": 14,
+                    "isCorrect": false
+                },
+                {
+                    "text": 16,
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "A pasodoble is a type of Italian pasta sauce.",
+            "a": [
+                {
+                    "text": "True",
+                    "isCorrect": false
+                },
+                {
+                    "text": "False",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "q": "Who is the author of Jurassic Park?",
+            "a": [
+                {
+                    "text": "Micheal Crichton",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Steven Spielberg",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sam Neill",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Colin Trevorrow",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "There are 84600 seconds in a day.",
+            "a": [
+                {
+                    "text": "True",
+                    "isCorrect": false
+                },
+                {
+                    "text": "False",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "q": "Named after the mallow flower, mauve is a shade of what?",
+            "a": [
+                {
+                    "text": "Purple",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Blue",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yellow",
+                    "isCorrect": false
+                },
+                {
+                    "text": "White",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "Chartreuse is a color between yellow and...",
+            "a": [
+                {
+                    "text": "Green",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Orange",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Purple",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Brown",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "If you planted the seeds of Quercus robur, what would grow?",
+            "a": [
+                {
+                    "text": "Trees",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Flowers",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Grass",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Weeds",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "How many notes are there on a standard grand piano?",
+            "a": [
+                {
+                    "text": 88,
+                    "isCorrect": true
+                },
+                {
+                    "text": 80,
+                    "isCorrect": false
+                },
+                {
+                    "text": 61,
+                    "isCorrect": false
+                },
+                {
+                    "text": 72,
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What is the symbol for copper?",
+            "a": [
+                {
+                    "text": "Cu",
+                    "isCorrect": true
+                },
+                {
+                    "text": "C",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Co",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cp",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What is the name of the fastest land animal?",
+            "a": [
+                {
+                    "text": "Cheetah",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pronghorn",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Lion",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Springbok",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "How many balls are on a pool table at the start of a game?",
+            "a": [
+                {
+                    "text": 16,
+                    "isCorrect": true
+                },
+                {
+                    "text": 15,
+                    "isCorrect": false
+                },
+                {
+                    "text": 11,
+                    "isCorrect": false
+                },
+                {
+                    "text": 10,
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "The films The King's Speech and The English Patient feature which English actor?",
+            "a": [
+                {
+                    "text": "Colin Firth",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Rowan Atkinson",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jim Broadband",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Charlie Hunnam",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What kind of animal is a Komodo dragon?",
+            "a": [
+                {
+                    "text": "A lizard",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A tortoise",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A crocodile",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A snake",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What were clocks missing before 1577?",
+            "a": [
+                {
+                    "text": "Minute hands",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Second hands",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hour numbers",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "In a game of netball how many players on a team are allowed to score?",
+            "a": [
+                {
+                    "text": "Two",
+                    "isCorrect": true
+                },
+                {
+                    "text": "One",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Three",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Four",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What is the perfect score of a game of ten pin bowling?",
+            "a": [
+                {
+                    "text": 300,
+                    "isCorrect": true
+                },
+                {
+                    "text": 360,
+                    "isCorrect": false
+                },
+                {
+                    "text": 100,
+                    "isCorrect": false
+                },
+                {
+                    "text": 130,
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What three letter word is the name of a replayed point in tennis?",
+            "a": [
+                {
+                    "text": "Let",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Tag",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ram",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "How many types of pieces are there in Tetris?",
+            "a": [
+                {
+                    "text": "Seven",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Six",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Four",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eight",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What is the first event in a decathlon?",
+            "a": [
+                {
+                    "text": "100 Metres",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Hurdles",
+                    "isCorrect": false
+                },
+                {
+                    "text": "400 Metres",
+                    "isCorrect": false
+                },
+                {
+                    "text": "800 Metres",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

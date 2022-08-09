@@ -1,0 +1,70 @@
+{
+    "name": "Test quiz",
+    "author": "Built-in",
+    "questions": [
+        {
+            "q": "What year is it?",
+            "a": [
+                {
+                    "text": "2020",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2021",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2022",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1982",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "what is the name of this bot?",
+            "a": [
+                {
+                    "text": "latiOS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "LatiOS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "latiAS",
+                    "isCorrect": false
+                },
+                {
+                    "text": "LatiAS",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "what is the name of this app?",
+            "img": "https://cdn.shopify.com/s/files/1/0510/4635/1019/files/discord-icon-new-2021-logo-09772BF096-seeklogo.com_600x600.png?",
+            "a": [
+                {
+                    "text": "Facebook",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Discord",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Skype",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Discord 2",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

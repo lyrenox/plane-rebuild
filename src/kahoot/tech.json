@@ -1,0 +1,426 @@
+{
+    "name": "Technology Trivia",
+    "author": "Built-in",
+    "questions": [
+        {
+            "q": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+            "a": [
+                {
+                    "text": "Taiwan",
+                    "isCorrect": true
+                },
+                {
+                    "text": "China",
+                    "isCorrect": false
+                },
+                {
+                    "text": "South Korea",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Germany",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "Unix Time is defined as the number of seconds that have elapsed since when?",
+            "a": [
+                {
+                    "text": "Midnight, January 1, 1970",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Noon, January 1, 1970",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Midnight, December 31, 1969",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Noon, December 31, 1969",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "`.rs` is the top-level domain for which country?",
+            "a": [
+                {
+                    "text": "Serbia",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Russia",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Romania",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Surimaine",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "According to the International System of Units,  how many bytes are in a kilobyte of RAM?",
+            "a": [
+                {
+                    "text": 1000,
+                    "isCorrect": true
+                },
+                {
+                    "text": 1024,
+                    "isCorrect": false
+                },
+                {
+                    "text": 8,
+                    "isCorrect": false
+                },
+                {
+                    "text": 512,
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "When Gmail first launched, how much storage did it provide for your email?",
+            "a": [
+                {
+                    "text": "1 GB",
+                    "isCorrect": true
+                },
+                {
+                    "text": "512 MB",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4 GB",
+                    "isCorrect": false
+                },
+                {
+                    "text": "10 GB",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "When did the online streaming service \"Mixer\" launch?",
+            "a": [
+                {
+                    "text": 2016,
+                    "isCorrect": true
+                },
+                {
+                    "text": 2015,
+                    "isCorrect": false
+                },
+                {
+                    "text": 2014,
+                    "isCorrect": false
+                },
+                {
+                    "text": 2013,
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+            "a": [
+                {
+                    "text": "Game Maker",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cocos2d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Unity",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Unreal Engine",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What is the name of the default theme that is installed with Windows XP?",
+            "a": [
+                {
+                    "text": "Luna",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Zune",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Embedded",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mallard",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "In the server hosting industry IaaS stands for...",
+            "a": [
+                {
+                    "text": "Infrastructure as a Service",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Information as a Service",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Indian Audit and Accounts Service",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Integration as a Service",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "How many cores does the Intel i9-12900H have?",
+            "a": [
+                {
+                    "text": 14,
+                    "isCorrect": true
+                },
+                {
+                    "text": 8,
+                    "isCorrect": false
+                },
+                {
+                    "text": 10,
+                    "isCorrect": false
+                },
+                {
+                    "text": 16,
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What is the most preferred image format used for  logos in the Wikimedia database?",
+            "a": [
+                {
+                    "text": "`.svg`",
+                    "isCorrect": true
+                },
+                {
+                    "text": "`.png`",
+                    "isCorrect": false
+                },
+                {
+                    "text": "`.webm`",
+                    "isCorrect": false
+                },
+                {
+                    "text": "`.jpeg`",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "In computing, what does MIDI stand for?",
+            "a": [
+                {
+                    "text": "Musical Instrument Digital Interface",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Music Industry Development Interface",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Music Instrument Device Interface",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Music Industry Development Initiative",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What is the main CPU of the Sega Mega Drive / Sega Genesis?",
+            "a": [
+                {
+                    "text": "Motorola 68000",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Motorola 6800",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Motorola 88000",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Motorola 68030",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "The numbering system with a radix of 16 or more is commonly referred to...",
+            "a": [
+                {
+                    "text": "Hexadecimal",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Decimal",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Binary",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Octal",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "When was the DVD invented?",
+            "a": [
+                {
+                    "text": 1990,
+                    "isCorrect": true
+                },
+                {
+                    "text": 1995,
+                    "isCorrect": false
+                },
+                {
+                    "text": 1985,
+                    "isCorrect": false
+                },
+                {
+                    "text": 1980,
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "Which country desgined the \"Betamax\" video cassette format?",
+            "a": [
+                {
+                    "text": "Sony",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Philips",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Panasonic",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Toshiba",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "What year was Facebook invented?",
+            "a": [
+                {
+                    "text": 2004,
+                    "isCorrect": true
+                },
+                {
+                    "text": 2010,
+                    "isCorrect": false
+                },
+                {
+                    "text": 2008,
+                    "isCorrect": false
+                },
+                {
+                    "text": 2006,
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "How many bits make up the significand portion of a precision floating point number?",
+            "a": [
+                {
+                    "text": 15,
+                    "isCorrect": false
+                },
+                {
+                    "text": 23,
+                    "isCorrect": true
+                },
+                {
+                    "text": 31,
+                    "isCorrect": false
+                },
+                {
+                    "text": 63,
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "In CSS, which of these values __cannot__ be used with the \"position\" property?",
+            "a": [
+                {
+                    "text": "center",
+                    "isCorrect": true
+                },
+                {
+                    "text": "absolute",
+                    "isCorrect": false
+                },
+                {
+                    "text": "fixed",
+                    "isCorrect": false
+                },
+                {
+                    "text": "sticky",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "q": "Moore's Law originally stated that the number of transistors on a microprocessor chip would double every...",
+            "a": [
+                {
+                    "text": "year",
+                    "isCorrect": true
+                },
+                {
+                    "text": "decade",
+                    "isCorrect": false
+                },
+                {
+                    "text": "month",
+                    "isCorrect": false
+                },
+                {
+                    "text": "six months",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}
